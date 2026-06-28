@@ -1,0 +1,6 @@
+company,retailer_category,years_of_data,avg_gross_margin_pct,min_gross_margin_pct,max_gross_margin_pct,margin_std_dev,margin_cv,margin_cy2014,margin_cy2024,margin_range_pp,margin_change_10yr_pp,resilience_rating
+Macy's,Department Store,11,38.72,29.17,41.12,3.28,0.0847,40.0,40.28,11.95,0.28,Low
+Nordstrom,Department Store,11,33.7,28.38,34.88,1.82,0.054,34.83,34.38,6.5,-0.45,Medium
+Dollar General,Discount,11,30.8,29.59,31.76,0.61,0.0197,30.69,29.59,2.17,-1.1,High
+Target,Mass Market,11,28.62,24.64,29.76,1.45,0.0506,29.39,28.21,5.12,-1.18,Medium
+Walmart,Discount,11,24.92,24.14,25.65,0.43,0.0171,24.83,24.85,1.51,0.02,High

@@ -1,0 +1,12 @@
+version: 2
+
+seeds:
+  - name: retail_financials
+    config:
+      column_types:
+        company: varchar
+        year: varchar
+        Revenue: double
+        GrossProfit: double
+        COGS: double
+        GrossMargin: double

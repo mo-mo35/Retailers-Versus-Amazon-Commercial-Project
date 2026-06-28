@@ -1,0 +1,56 @@
+company,retailer_category,fiscal_year,gross_margin_pct,prev_year_margin_pct,margin_change_pp,revenue_billions,revenue_growth_pct
+Target,Mass Market,2014,29.39,,,72.62,
+Target,Mass Market,2015,29.2,29.39,-0.19,73.79,1.61
+Target,Mass Market,2016,29.28,29.2,0.08,69.5,-5.81
+Target,Mass Market,2017,28.87,29.28,-0.41,71.88,3.43
+Target,Mass Market,2018,29.27,28.87,0.4,75.36,4.84
+Target,Mass Market,2019,29.76,29.27,0.49,78.11,3.66
+Target,Mass Market,2020,29.27,29.76,-0.49,93.56,19.78
+Target,Mass Market,2021,29.28,29.27,0.01,106.01,13.3
+Target,Mass Market,2022,24.64,29.28,-4.64,109.12,2.94
+Target,Mass Market,2023,27.63,24.64,2.99,107.41,-1.57
+Target,Mass Market,2024,28.21,27.63,0.58,106.57,-0.79
+Macy's,Department Store,2014,40.0,,,28.11,
+Macy's,Department Store,2015,39.08,40.0,-0.92,27.08,-3.65
+Macy's,Department Store,2016,39.4,39.08,0.32,25.78,-4.8
+Macy's,Department Store,2017,38.99,39.4,-0.41,24.84,-3.65
+Macy's,Department Store,2018,39.07,38.99,0.08,24.97,0.54
+Macy's,Department Store,2019,38.23,39.07,-0.84,24.56,-1.65
+Macy's,Department Store,2020,29.17,38.23,-9.06,17.35,-29.37
+Macy's,Department Store,2021,41.12,29.17,11.95,25.4,46.43
+Macy's,Department Store,2022,39.86,41.12,-1.26,25.45,0.2
+Macy's,Department Store,2023,40.74,39.86,0.88,23.87,-6.22
+Macy's,Department Store,2024,40.28,40.74,-0.46,23.01,-3.6
+Dollar General,Discount,2014,30.69,,,18.91,
+Dollar General,Discount,2015,30.96,30.69,0.27,20.37,7.72
+Dollar General,Discount,2016,30.85,30.96,-0.11,21.99,7.94
+Dollar General,Discount,2017,30.77,30.85,-0.08,23.47,6.75
+Dollar General,Discount,2018,30.45,30.77,-0.32,25.63,9.18
+Dollar General,Discount,2019,30.59,30.45,0.14,27.75,8.31
+Dollar General,Discount,2020,31.76,30.59,1.17,33.75,21.59
+Dollar General,Discount,2021,31.6,31.76,-0.16,34.22,1.4
+Dollar General,Discount,2022,31.23,31.6,-0.37,37.84,10.59
+Dollar General,Discount,2023,30.29,31.23,-0.94,38.69,2.24
+Dollar General,Discount,2024,29.59,30.29,-0.7,40.61,4.96
+Nordstrom,Department Store,2014,34.83,,,13.51,
+Nordstrom,Department Store,2015,34.13,34.83,-0.7,14.44,6.89
+Nordstrom,Department Store,2016,34.28,34.13,0.15,14.76,2.22
+Nordstrom,Department Store,2017,33.9,34.28,-0.38,15.48,4.89
+Nordstrom,Department Store,2018,33.58,33.9,-0.32,15.86,2.47
+Nordstrom,Department Store,2019,33.5,33.58,-0.08,15.52,-2.12
+Nordstrom,Department Store,2020,28.38,33.5,-5.12,10.72,-30.98
+Nordstrom,Department Store,2021,34.88,28.38,6.5,14.79,38.02
+Nordstrom,Department Store,2022,34.42,34.88,-0.46,15.53,5.01
+Nordstrom,Department Store,2023,34.4,34.42,-0.02,14.69,-5.39
+Nordstrom,Department Store,2024,34.38,34.4,-0.02,15.02,2.2
+Walmart,Discount,2014,24.83,,,485.65,
+Walmart,Discount,2015,25.13,24.83,0.3,482.13,-0.73
+Walmart,Discount,2016,25.65,25.13,0.52,485.87,0.78
+Walmart,Discount,2017,25.37,25.65,-0.28,500.34,2.98
+Walmart,Discount,2018,25.1,25.37,-0.27,514.41,2.81
+Walmart,Discount,2019,24.69,25.1,-0.41,523.96,1.86
+Walmart,Discount,2020,24.83,24.69,0.14,559.15,6.72
+Walmart,Discount,2021,25.1,24.83,0.27,572.75,2.43
+Walmart,Discount,2022,24.14,25.1,-0.96,611.29,6.73
+Walmart,Discount,2023,24.38,24.14,0.24,648.13,6.03
+Walmart,Discount,2024,24.85,24.38,0.47,680.99,5.07

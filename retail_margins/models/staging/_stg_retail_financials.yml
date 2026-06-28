@@ -1,0 +1,43 @@
+version: 2
+
+models:
+  - name: stg_retail_financials
+    description: "Cleaned retail financials from SEC EDGAR seed. One row per company per year."
+    columns:
+      - name: company
+        description: "Retailer name"
+        tests:
+          - not_null
+
+      - name: fiscal_year
+        description: "Calendar year as integer"
+        tests:
+          - not_null
+
+      - name: revenue
+        description: "Total revenue in USD"
+        tests:
+          - not_null
+
+      - name: gross_profit
+        description: "Gross profit in USD"
+        tests:
+          - not_null
+
+      - name: cogs
+        description: "Cost of goods sold in USD"
+        tests:
+          - not_null
+
+      - name: gross_margin_pct
+        description: "Gross margin as a percentage e.g. 24.5 means 24.5%"
+        tests:
+          - not_null
+
+      - name: retailer_category
+        description: "Business model classification"
+        tests:
+          - not_null
+          - accepted_values:
+              arguments:
+                values: ["Discount", "Department Store", "Mass Market"]
