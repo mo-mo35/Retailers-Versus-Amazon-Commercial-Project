@@ -7,8 +7,8 @@ Which US retailers protected their gross margin across a decade of Amazon growth
 ## Key Findings
  
 - **Discount retailers won on stability.** Walmart and Dollar General both maintained a coefficient of variation of 0.02 across the full decade, the lowest in the set. Despite operating at the thinnest average margins, they proved the most structurally resilient.
-- **Margin level is not the same as margin resilience.** Macy's averaged 38.72% gross margin, the highest in the set, but also posted the highest volatility (CV 0.08) and a nearly 12 percentage point swing from peak to trough. Its margin collapsed in 2020 and only recovered when stores reopened. That is fragility, not strength.
-- **2020 was a stress test.** The Covid disruption separated resilient from fragile business models. Department stores saw sharp margin declines. Discount retailers were barely affected.
+- **Margin level is not the same as margin resilience.** Macy's averaged 38.72% gross margin, the highest in the set, but also posted the highest volatility (CV 0.08) and a nearly 12 percentage point swing from peak to trough. Its margin collapsed in 2020 and only recovered when stores reopened.
+- **2020 was a stress test.** The Covid disruption separated resilient from fragile business models. Department stores saw sharp margin declines, while discount retailers were barely affected.
 - **Target's post-Covid inventory problem shows up clearly in the data.** A notable margin drop in 2022 reflects the period when Target was caught with excess inventory and had to discount aggressively to clear it.
 - **Dollar General doubled revenue while holding margin.** Growing from $19bn to $41bn in a decade while maintaining margin stability is a significant operational achievement that the data captures clearly.
 ## Resilience Ratings
